@@ -1,0 +1,37 @@
+{"details":{
+  "name":"dattasaivinay",
+"surname":"salapaka",
+"image":"Photo from Datta Sai Vinay.jpg",
+"email":"salapakadattasaivinay@gmail.com",
+"number":"9381190685",
+"address":"Kakinada"
+},
+"careerobjective":{"info":"To become software developer"},
+"educationalqualification":[
+	
+{
+	"institute":"Narayana junior college",
+	"degree":"Intermediate",
+	"passoutyear":"2018",
+	"percentage":"97.9%"
+},
+{"institute":"SunShine E.M. High School",
+	"degree":"S.S.C",
+	"passoutyear":"2016",
+	"percentage":"10points"}
+],
+"technicalskills":[{
+	"title":"programming languages",
+	"info":["c,c++,python,r,java"]
+},
+{
+	"title":"Additionalskills",
+	"info":["AWS,sql,algorithms,datastructures,M.L"]
+},
+{
+	"title":"Achievements",
+	"info":["N.P.T.E.L believer,Discipline star,Enthusiast"]
+}
+]
+}
+

@@ -1,10 +1,19 @@
-div{height:100%;
-	box-sizing: content-box;
-width:100%;
-overflow-x:auto;}
+
+div{overflow-x:auto;
+	
+	
+}
+a{
+	word-wrap: break-word;
+}
+
+a:hover{
+	word-wrap: break-word;
+	color: black;
+}
 
 .card-view{
-    
+    width:95%;
 	border:2px solid #ddd;
 	padding: 1%;
 	margin: 1%;
@@ -18,7 +27,7 @@ overflow-x:auto;}
 	padding: 1%;
 	margin: 1%;
 	font-size: 25px;
-	width: 100%;
+	width: 30%;
 	text-align: center;
 	border-radius: 10%;
 	background-color: #DBE9E9;
@@ -27,7 +36,7 @@ overflow-x:auto;}
 img{
 	width:70%;
 	border:2px solid black;
-	border-radius: 50%;
+	border-radius: 30%;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -42,7 +51,7 @@ button{
 	border: 2px solid #ddd;
 	padding: 1%;
 	margin: 1%;
-	width: 100%;
+	width: 30%;
 	font-size: 25px;
 	text-align: center;
 	border-radius: 10%;
@@ -58,12 +67,21 @@ width:100%;}
 	display: flex;
 	flex-wrap: wrap;
 }
+a{
+	word-wrap: break-word;
+}
+
+a:hover{
+	word-wrap: break-word;
+	color: black;
+}
+
 .card1{
 	border: 2px solid black;
 	padding: 1%;
 	margin: 2%;
 	font-size: 25px;
-	width: 70%;
+	width: 50%;
 	text-align: center;
 	border-radius: 10%;
 	background-color: skyblue;
@@ -87,7 +105,7 @@ button{
 	border: 2px solid black;
 	padding: 1%;
 	margin: 2%;
-	width: 70%;
+	width: 50%;
 	font-size: 25px;
 	text-align: center;
 	border-radius: 10%;
@@ -103,6 +121,8 @@ width:100%;}
 	padding: 1%;
 	margin: 1%;
 	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
 	flex-wrap: wrap;
 }
 .card1{
@@ -110,11 +130,19 @@ width:100%;}
 	padding: 1%;
 	margin: 1%;
 	font-size: 25px;
-	width: 100%;
+	width: 50%;
 	text-align: center;
 	border-radius: 10%;
 	background-color: purple;
 	
+}
+a{
+	word-wrap: break-word;
+}
+
+a:hover{
+	word-wrap: break-word;
+	color: black;
 }
 
 img{
@@ -138,16 +166,23 @@ button{
 	border: 2px solid #ddd;
 	padding: 1%;
 	margin: 1%;
-	width: 100%;
+	width: 50%;
 	font-size: 25px;
 	text-align: center;
 	border-radius: 10%;
 	background-color: purple;
 }}
 @media only screen and (min-width: 768px) and (max-width: 1080px){
-	div{height:100%;
-	box-sizing: content-box;
-width:100%;}
+	a{
+	word-wrap: break-word;
+}
+
+a:hover{
+	word-wrap: break-word;
+	color: black;
+}
+
+	
 	.card-view{
 
 	border:2px solid #ddd;
@@ -161,7 +196,7 @@ width:100%;}
 	padding: 1%;
 	margin: 1%;
 	font-size: 25px;
-	width: 100%;
+	width: 50%;
 	text-align: center;
 	border-radius: 10%;
 	background-color: purple;
@@ -185,16 +220,22 @@ button{
 	border: 2px solid #ddd;
 	padding: 1%;
 	margin: 1%;
-	width: 100%;
+	width: 50%;
 	font-size: 25px;
 	text-align: center;
 	border-radius: 10%;
 	background-color: purple;
 }}
 @media only screen and (min-width: 1081px){
-	div{height:100%;
-	box-sizing: content-box;
-width:100%;}
+	a{
+	word-wrap: break-word;
+}
+
+a:hover{
+	word-wrap: break-word;
+	color: black;
+}
+
 	.card-view{
 
 	border:2px solid #ddd;
@@ -208,7 +249,7 @@ width:100%;}
 	padding: 1%;
 	margin: 1%;
 	font-size: 25px;
-	width: 100%;
+	width: 50%;
 	text-align: center;
 	border-radius: 10%;
 	background-color: purple;
@@ -232,7 +273,7 @@ button{
 	border: 2px solid #ddd;
 	padding: 1%;
 	margin: 1%;
-	width: 100%;
+	width: 50%;
 	font-size: 25px;
 	text-align: center;
 	border-radius: 10%;
